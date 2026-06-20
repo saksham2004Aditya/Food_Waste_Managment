@@ -1,0 +1,17 @@
+food-analytics-dashboard/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+├── data/
+│   ├── dataset1.csv
+│   ├── dataset2.csv
+│
+├── sql/
+│   ├── schema.sql
+│   └── queries.sql
+│
+└── utils/
+    └── eda.py
